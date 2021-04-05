@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "ttp://nitin-kumar.com/wedding-landing-page"
 title = "OMEGA"
 theme = "omega-hugo"
 # google analytics
